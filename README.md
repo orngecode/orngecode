@@ -26,16 +26,15 @@
 
 ## 🧑‍💻 Tech Stack and Progress
 
-| ![HTML](https://img.shields.io/badge/HTML-90%25-blue)    | <progress value="90" max="100"></progress>
-| ![CSS](https://img.shields.io/badge/CSS-60%25-blue)      | <progress value="60" max="100"></progress>
-| ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-blue) | <progress value="10" max="100"></progress>
-| ![UI/UX](https://img.shields.io/badge/UI/UX-60%25-blue)  | <progress value="60" max="100"></progress>
-| ![React](https://img.shields.io/badge/React-5%25-blue)   | <progress value="0" max="100"></progress>
-| ![Next.js](https://img.shields.io/badge/Next.js-5%25-blue)| <progress value="0" max="100"></progress>
-| ![TypeScript](https://img.shields.io/badge/TypeScript-5%25-blue) | <progress value="0" max="100"></progress>
-| ![Python](https://img.shields.io/badge/Python-5%25-blue) | <progress value="0" max="100"></progress>
-| ![Redis](https://img.shields.io/badge/Redis-5%25-blue)   | <progress value="0" max="100"></progress>
-| ![GraphQL](https://img.shields.io/badge/GraphQL-5%25-blue)| <progress value="0" max="100"></progress>
+## 🛠️ Tech Stack and Progress
+
+| Technology               | Proficiency  |
+|--------------------------|--------------|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  | ![HTML Progress](https://progress-bar.dev/90/?scale=100&width=100&height=100&color=E34F26&suffix=%) 90% |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />   | ![CSS Progress](https://progress-bar.dev/60/?scale=100&width=100&height=100&color=1572B6&suffix=%) 60% |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  | ![JavaScript Progress](https://progress-bar.dev/20/?scale=100&width=100&height=100&color=F7DF1E&suffix=%) 20% |
+| <img src="https://img.shields.io/badge/UX%2FUI-008080?style=for-the-badge&logo=adobe&logoColor=white" /> | ![UX/UI Progress](https://progress-bar.dev/60/?scale=100&width=100&height=100&color=008080&suffix=%) 60% |
+
 
 
 
