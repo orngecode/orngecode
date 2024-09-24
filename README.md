@@ -26,16 +26,16 @@
 
 ## 🧑‍💻 Tech Stack and Progress
 
-| ![HTML](https://img.shields.io/badge/HTML-90%25-blue)    | <progress value="90" max="100"></progress> 90% |
-| ![CSS](https://img.shields.io/badge/CSS-60%25-blue)      | <progress value="60" max="100"></progress> 60% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-blue) | <progress value="20" max="100"></progress> 20% |
-| ![UI/UX](https://img.shields.io/badge/UI/UX-60%25-blue)  | <progress value="60" max="100"></progress> 60% |
-| ![React](https://img.shields.io/badge/React-5%25-blue)   | <progress value="5" max="100"></progress> 5%  |
-| ![Next.js](https://img.shields.io/badge/Next.js-5%25-blue)| <progress value="5" max="100"></progress> 5%  |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-5%25-blue) | <progress value="5" max="100"></progress> 5%  |
-| ![Python](https://img.shields.io/badge/Python-5%25-blue) | <progress value="5" max="100"></progress> 5%  |
-| ![Redis](https://img.shields.io/badge/Redis-5%25-blue)   | <progress value="5" max="100"></progress> 5%  |
-| ![GraphQL](https://img.shields.io/badge/GraphQL-5%25-blue)| <progress value="5" max="100"></progress> 5%  |
+| ![HTML](https://img.shields.io/badge/HTML-90%25-blue)    | <progress value="90" max="100"></progress>
+| ![CSS](https://img.shields.io/badge/CSS-60%25-blue)      | <progress value="60" max="100"></progress>
+| ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-blue) | <progress value="10" max="100"></progress>
+| ![UI/UX](https://img.shields.io/badge/UI/UX-60%25-blue)  | <progress value="60" max="100"></progress>
+| ![React](https://img.shields.io/badge/React-5%25-blue)   | <progress value="0" max="100"></progress>
+| ![Next.js](https://img.shields.io/badge/Next.js-5%25-blue)| <progress value="0" max="100"></progress>
+| ![TypeScript](https://img.shields.io/badge/TypeScript-5%25-blue) | <progress value="0" max="100"></progress>
+| ![Python](https://img.shields.io/badge/Python-5%25-blue) | <progress value="0" max="100"></progress>
+| ![Redis](https://img.shields.io/badge/Redis-5%25-blue)   | <progress value="0" max="100"></progress>
+| ![GraphQL](https://img.shields.io/badge/GraphQL-5%25-blue)| <progress value="0" max="100"></progress>
 
 
 
