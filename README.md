@@ -3,16 +3,13 @@
 ## 🌟 About Me:
 
 - 🔭 **I'm currently working on**: 
-  Building a responsive Asian Language Translator project.
-  
-- 👯 **I'm looking to collaborate on**: 
-  Custom web applications, AI/ML projects, and automation software for businesses.
+  Building a Asian Language Translator project.
   
 - 🌱 **I'm currently learning**: 
   Advanced JavaScript, Tailwind CSS, and the MERN stack.
   
 - 💬 **Ask me about**: 
-  Freelancing, video editing, programming (HTML, CSS, JavaScript), and custom automation solutions.
+  Freelancing, video editing, HTML, CSS, JavaScript, and automation tools.
 
 - ⚡ **Fun Fact**: 
   I still edit videos for my faceless YouTube channels! 🎬
