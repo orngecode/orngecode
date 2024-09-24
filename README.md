@@ -28,12 +28,49 @@
 
 ## 🛠️ Tech Stack and Progress
 
-| Technology               | Proficiency  |
-|--------------------------|--------------|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  | ![HTML Progress](https://progress-bar.dev/90/?scale=100&width=100&height=100&color=E34F26&suffix=%) 90% |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />   | ![CSS Progress](https://progress-bar.dev/60/?scale=100&width=100&height=100&color=1572B6&suffix=%) 60% |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  | ![JavaScript Progress](https://progress-bar.dev/20/?scale=100&width=100&height=100&color=F7DF1E&suffix=%) 20% |
-| <img src="https://img.shields.io/badge/UX%2FUI-008080?style=for-the-badge&logo=adobe&logoColor=white" /> | ![UX/UI Progress](https://progress-bar.dev/60/?scale=100&width=100&height=100&color=008080&suffix=%) 60% |
+## 🛠️ Tech Stack and Progress
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <br>
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="45" stroke="#ddd" stroke-width="10" fill="none" />
+        <circle cx="50" cy="50" r="45" stroke="#E34F26" stroke-width="10" fill="none" stroke-dasharray="283" stroke-dashoffset="28" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="20" fill="#000">90%</text>
+      </svg>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <br>
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="45" stroke="#ddd" stroke-width="10" fill="none" />
+        <circle cx="50" cy="50" r="45" stroke="#1572B6" stroke-width="10" fill="none" stroke-dasharray="283" stroke-dashoffset="113" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="20" fill="#000">60%</text>
+      </svg>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br>
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="45" stroke="#ddd" stroke-width="10" fill="none" />
+        <circle cx="50" cy="50" r="45" stroke="#F7DF1E" stroke-width="10" fill="none" stroke-dasharray="283" stroke-dashoffset="226" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="20" fill="#000">20%</text>
+      </svg>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <br>
+      <svg width="100" height="100">
+        <circle cx="50" cy="50" r="45" stroke="#ddd" stroke-width="10" fill="none" />
+        <circle cx="50" cy="50" r="45" stroke="#F24E1E" stroke-width="10" fill="none" stroke-dasharray="283" stroke-dashoffset="113" transform="rotate(-90 50 50)" />
+        <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="20" fill="#000">60%</text>
+      </svg>
+    </td>
+  </tr>
+</table>
+
 
 
 
