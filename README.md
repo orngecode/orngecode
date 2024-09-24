@@ -51,14 +51,6 @@
 
 ---
 
-## 🔥 Top Contributed Repos:
-
-- [Netflix Clone](https://github.com/orngecode/netflix-clone) – MERN stack project
-- [Asian Language Translator](https://github.com/orngecode/asian-language-translator) – Ongoing project
-- [Responsive Web Design](https://github.com/orngecode/responsive-web) – Completed project
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=orngecode&color=blueviolet&style=for-the-badge)
 
 
